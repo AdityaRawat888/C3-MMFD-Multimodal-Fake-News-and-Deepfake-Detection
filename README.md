@@ -97,15 +97,15 @@ C3-MMFD-Multimodal-Fake-News-Detection
 
 ## Installation
 
-Clone the repository: 
+**Clone the repository:** 
 
 git clone https://github.com/yourusername/C3-MMFD-Multimodal-Fake-News-Detection.git
 
-Navigate to the project folder: 
+**Navigate to the project folder:** 
 
 cd C3-MMFD-Multimodal-Fake-News-Detection
 
-Install dependencies: 
+**Install dependencies:** 
 
 pip install -r requirements.txt
 

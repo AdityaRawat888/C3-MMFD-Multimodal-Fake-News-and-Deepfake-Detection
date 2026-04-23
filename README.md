@@ -48,7 +48,8 @@ Dataset links are provided in the `datasets` directory.
 ---
 
 ## Project Structure
-C3-MMFD-Multimodal-Fake-News-Detection
+```C3-MMFD: Multimodal-Fake-News-Detection-and-Deepfake-Videos
+
 │
 ├── README.md
 ├── requirements.txt
@@ -78,7 +79,7 @@ C3-MMFD-Multimodal-Fake-News-Detection
 │
 └── docs
 └── Architecture.png
-
+```
 
 ---
 

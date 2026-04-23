@@ -48,3 +48,112 @@ Dataset links are provided in the `datasets` directory.
 ---
 
 ## Project Structure
+C3-MMFD-Multimodal-Fake-News-Detection
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+│
+├── notebooks
+│ ├── 01_data_preprocessing.ipynb
+│ ├── 02_text_model_training.ipynb
+│ ├── 03_image_model_training.ipynb
+│ ├── 04_multimodal_fusion.ipynb
+│ ├── 05_evaluation.ipynb
+│
+├── src
+│ ├── data_loader.py
+│ ├── preprocessing.py
+│ ├── model.py
+│ ├── fusion.py
+│ ├── evaluation.py
+│
+├── datasets
+│ └── dataset_links.md
+│
+├── results
+│ ├── accuracy_results.png
+│ ├── confusion_matrix.png
+│ ├── ablation_results.png
+│
+└── docs
+└── Architecture.png
+
+
+---
+
+## Technologies Used
+
+- Python
+- PyTorch / TensorFlow
+- HuggingFace Transformers
+- OpenCV
+- Scikit-learn
+- NumPy
+- Pandas
+- Google Colab
+
+---
+
+## Installation
+
+Clone the repository: git clone https://github.com/yourusername/C3-MMFD-Multimodal-Fake-News-Detection.git
+Navigate to the project folder: cd C3-MMFD-Multimodal-Fake-News-Detection
+Install dependencies: pip install -r requirements.txt
+
+
+
+---
+
+## How to Run
+
+1. Run **data preprocessing notebook**
+2. Train the **text model**
+3. Train the **image model**
+4. Perform **multimodal fusion**
+5. Evaluate the model performance
+
+All experiment notebooks are located in the `notebooks` directory.
+
+---
+
+## Experimental Results
+
+The framework was evaluated using multiple benchmark datasets and achieved improved performance through reliability-aware multimodal fusion.
+
+Example outputs include:
+
+- Accuracy comparison
+- Confusion matrix
+- Ablation study results
+
+Results are available in the `results` directory.
+
+---
+
+## Research Paper
+
+This repository accompanies the research work:
+
+**"C³-MMFD: Reliability-Aware Multimodal Fake News and Deepfake Detection"**
+
+Submitted to: **RACCAI 2026 Conference**
+
+---
+
+## Author
+
+**Aditya Rawat**
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## Acknowledgements
+
+This project was developed as part of research in multimodal misinformation detection and deepfake analysis.
+

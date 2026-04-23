@@ -30,7 +30,7 @@ The proposed framework integrates information from multiple modalities and evalu
 Architecture Diagram:
 
 
-![Architecture](docs/architecture.png)
+![Architecture](docs/Architecture.png)
 ---
 
 ## Datasets Used

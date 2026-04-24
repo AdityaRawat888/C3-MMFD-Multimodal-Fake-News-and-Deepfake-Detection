@@ -1,0 +1,41 @@
+# Core deep learning
+torch
+torchvision
+torchaudio
+
+# Transformer models
+transformers
+sentence-transformers
+
+# Vector search
+faiss-cpu
+
+# NLP utilities
+spacy
+wikipedia-api
+wikidata
+
+# Computer vision
+opencv-python
+mediapipe
+facenet-pytorch
+Pillow
+
+# Deep learning models
+timm
+pretrainedmodels
+
+# Audio processing
+soundfile
+librosa
+
+# Scientific computing
+numpy
+pandas
+scikit-learn
+
+# Video / audio processing
+ffmpeg-python
+
+# Misc utilities
+tqdm

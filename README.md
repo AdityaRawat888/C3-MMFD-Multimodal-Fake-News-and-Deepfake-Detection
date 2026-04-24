@@ -98,6 +98,11 @@ Dataset links are provided in the `datasets` directory.
 
 ## Final Output
 
+**Given Input**
+![Sample_Input](docs/Sample_Input.jpg)
+
+**Output**
+![Sample_Output](docs/Sample_Output.jpg)
 
 
 ## Installation

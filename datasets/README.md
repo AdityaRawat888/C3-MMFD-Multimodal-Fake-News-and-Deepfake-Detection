@@ -6,4 +6,3 @@ Due to licensing restrictions and large file sizes, the datasets are **not inclu
 
 Please download them from the official sources listed in `dataset_links.md`.
 
-After downloading, organize the datasets as described in `dataset_structure.md`.

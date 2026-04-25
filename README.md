@@ -104,6 +104,10 @@ Dataset links are provided in the `datasets` directory.
 **Output**
 ![Sample_Output](docs/Sample_Output.jpg)
 
+## Results
+
+**Hallucination vs Coverage Plot**
+![Hallucination vs Coverage](docs/Hallucination vs Coverage.jpeg)
 
 ## Installation
 

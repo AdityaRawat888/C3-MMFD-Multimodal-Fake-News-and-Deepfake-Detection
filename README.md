@@ -108,7 +108,16 @@ Dataset links are provided in the `datasets` directory.
 
 **Hallucination vs Coverage Plot**
 
+
 ![Hallucination vs Coverage](results/Plot_1.jpeg)
+
+
+**Accuracy vs Coverage Plot**
+
+
+![Accuracy vs Coverage](results/Plot_2.jpeg)
+
+
 
 
 

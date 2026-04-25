@@ -118,6 +118,10 @@ Dataset links are provided in the `datasets` directory.
 ![Accuracy vs Coverage](results/Plot_2.jpeg)
 
 
+**Accuracy - Hallucination TradeOff**
+
+
+![Accuracy - Hallucination TradeOff](results/Plot_3.jpeg)
 
 
 

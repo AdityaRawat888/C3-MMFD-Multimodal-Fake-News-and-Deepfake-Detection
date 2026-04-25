@@ -107,6 +107,7 @@ Dataset links are provided in the `datasets` directory.
 ## Results
 
 **Hallucination vs Coverage Plot**
+
 ![Hallucination vs Coverage](results/Plot_1.jpeg)
 
 

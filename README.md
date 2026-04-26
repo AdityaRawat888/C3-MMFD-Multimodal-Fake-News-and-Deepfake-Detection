@@ -110,6 +110,8 @@ Dataset links are provided in the `datasets` directory.
 Accuracy of Model: 85%
 
 
+![Accuracy_Of_Model](results/C3-MMFD_Accuracy.jpg)
+
 
 **Hallucination vs Coverage Plot**
 

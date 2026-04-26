@@ -106,6 +106,11 @@ Dataset links are provided in the `datasets` directory.
 
 ## Results
 
+
+Accuracy of Model: 85%
+
+
+
 **Hallucination vs Coverage Plot**
 
 
